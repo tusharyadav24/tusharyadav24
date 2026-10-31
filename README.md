@@ -6,7 +6,7 @@
 <!-- Profile Banner Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Tushar%20Yadav&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Building%20Scalable%20Web%20Apps%20%7C%20Solving%20Problems%20%7C%20Exploring%20AI&descSize=18&descAlignY=55&descAlign=50"/>
 
-<!-- Visitor Counter -->
+<!-- Visitor Counter & Followers -->
 <img src="https://komarev.com/ghpvc/?username=tusharyadav24&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile Views" />
 &nbsp;
 <img src="https://img.shields.io/github/followers/tusharyadav24?label=Followers&style=for-the-badge&color=6C63FF" alt="Followers" />
@@ -26,7 +26,7 @@ passion: "Turning ideas into production-ready, scalable applications"
 fun_fact: "I debug code faster than I decide what to eat 🍕"
 ```
 
-<img align="right" alt="Coding GIF" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" alt="Coding GIF" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 - 🔥 **Mastering DSA** using **C++** and **Java** with daily problem-solving consistency
 - 🌐 **Full-Stack Web Developer** specializing in the **MERN Stack**
@@ -120,15 +120,15 @@ fun_fact: "I debug code faster than I decide what to eat 🍕"
 <div align="center">
 
 <!-- GitHub Stats Card -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tusharyadav24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&count_private=true" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tusharyadav24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&count_private=true&cache_seconds=7200" alt="GitHub Stats" />
 &nbsp;
-<!-- Streak Stats -->
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=tusharyadav24&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=C9D1D9&dates=8B949E&stroke=0D1117" alt="GitHub Streak" />
+<!-- Streak Stats (FIXED: moved from dead herokuapp.com to demolab.com) -->
+<img width="49%" src="https://streak-stats.demolab.com?user=tusharyadav24&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=C9D1D9&dates=8B949E&stroke=0D1117" alt="GitHub Streak" />
 
 <br/><br/>
 
 <!-- Top Languages -->
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharyadav24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharyadav24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=8&cache_seconds=7200" alt="Top Languages" />
 
 </div>
 
@@ -138,7 +138,8 @@ fun_fact: "I debug code faster than I decide what to eat 🍕"
 
 <div align="center">
 
-[![tushar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tusharyadav24)]
+[![Trophies](https://github-profile-trophy.vercel.app/?username=tusharyadav24&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
 
 ---
@@ -147,7 +148,7 @@ fun_fact: "I debug code faster than I decide what to eat 🍕"
 
 <div align="center">
 
-[![tushar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tusharyadav24&theme=dracula)](https://github.com/tusharyadav24/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tusharyadav24&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&area_color=6C63FF&hide_border=true&custom_title=Tushar%27s%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -165,7 +166,7 @@ fun_fact: "I debug code faster than I decide what to eat 🍕"
 
 </div>
 
-> 💡 **Setup Snake Animation:** Add a GitHub Actions workflow to auto-generate the snake. See the [setup guide below](#-snake-animation-setup).
+> 💡 **Snake not showing?** You need to set up the GitHub Actions workflow first. See the [setup guide](#-snake-animation-setup) at the bottom of this file.
 
 ---
 
@@ -246,8 +247,8 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */6 * * *"   # Runs every 6 hours
-  workflow_dispatch:          # Manual trigger
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
 
 jobs:
   generate:
