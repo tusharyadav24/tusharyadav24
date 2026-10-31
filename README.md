@@ -138,8 +138,7 @@ fun_fact: "I debug code faster than I decide what to eat 🍕"
 
 <div align="center">
 
-[![tushar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tusharyadav24)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![tushar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tusharyadav24)]
 </div>
 
 ---
@@ -148,7 +147,7 @@ fun_fact: "I debug code faster than I decide what to eat 🍕"
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tusharyadav24&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&area_color=6C63FF&hide_border=true&custom_title=Tushar's%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![tushar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tusharyadav24&theme=dracula)](https://github.com/tusharyadav24/github-readme-activity-graph)
 
 </div>
 
