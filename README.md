@@ -1,15 +1,15 @@
 <div align="center">
 
-<!-- HEADER WAVE (pure wave - no text - never crops on any device) -->
+<!-- HEADER WAVE — pure wave, no text, never crops -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header"/>
 
-<!-- ANIMATED TYPING HEADER (responsive text - scales on all screens) -->
+<!-- ANIMATED TYPING HEADER -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=90&lines=%F0%9F%91%8B+Hey+there!+I'm+Tushar+Yadav;Full-Stack+Developer+%7C+DSA+%7C+AI+Explorer)](https://git.io/typing-svg)
 
 <!-- Visitor Counter & Followers -->
-<img src="https://komarev.com/ghpvc/?username=tusharyadav24&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=tusharyadav24&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile Views"/>
 &nbsp;
-<img src="https://img.shields.io/github/followers/tusharyadav24?label=Followers&style=for-the-badge&color=6C63FF" alt="Followers" />
+<img src="https://img.shields.io/github/followers/tusharyadav24?label=Followers&style=for-the-badge&color=6C63FF" alt="Followers"/>
 
 </div>
 
@@ -31,7 +31,7 @@ fun_fact    : "I debug code faster than I decide what to eat 🍕"
 
 - 🔥 **Mastering DSA** with **C++** & **Java** — consistent daily problem-solving
 - 🌐 **Full-Stack Developer** — MERN Stack (React, Next.js, Node, Express, MongoDB)
-- 🤖 **AI Integration** — embedding LLMs, ML APIs into real-world web applications
+- 🤖 **AI Integration** — embedding LLMs & ML APIs into full-stack web applications
 - 🏗️ **Production Engineering** — scalable, clean, maintainable codebases
 - 📚 Always learning, always building, always shipping
 - 💬 Ask me about **DSA · MERN Stack · AI Integration · System Design**
@@ -59,10 +59,10 @@ fun_fact    : "I debug code faster than I decide what to eat 🍕"
 
 | 🧠 Area | 📝 What I'm Building |
 |--------|----------------------|
-| **DSA (C++ & Java)** | Daily problem-solving on LeetCode · GFG · Codeforces with consistency |
+| **DSA (C++ & Java)** | Daily problem-solving on LeetCode · GFG · Codeforces |
 | **MERN Full-Stack** | React.js · Next.js · Node.js · Express.js · MongoDB · Tailwind CSS |
-| **AI-Powered Apps** | Integrating OpenAI · LangChain · HuggingFace APIs into full-stack apps |
-| **Production Readiness** | Scalable architecture · clean repos · CI/CD · Docker · Vercel |
+| **AI-Powered Apps** | OpenAI · LangChain · HuggingFace APIs in full-stack apps |
+| **Production Readiness** | Scalable architecture · CI/CD · Docker · Vercel |
 
 </div>
 
@@ -94,7 +94,6 @@ fun_fact    : "I debug code faster than I decide what to eat 🍕"
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### 🤖 AI / ML & APIs
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
@@ -104,7 +103,6 @@ fun_fact    : "I debug code faster than I decide what to eat 🍕"
 
 ### 🔧 DevOps & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -120,21 +118,26 @@ fun_fact    : "I debug code faster than I decide what to eat 🍕"
 
 <div align="center">
 
-<!-- Stats Card: cache_seconds=7200 reduces rate-limit errors -->
+<!--
+  ✅ FIXED: github-readme-stats.vercel.app is PERMANENTLY DEAD (503 DEPLOYMENT_PAUSED)
+  Using github-stats-extended.vercel.app — confirmed working community replacement
+-->
+
+<!-- GitHub Stats Card -->
 <img height="180em"
-  src="https://github-readme-stats.vercel.app/api?username=tusharyadav24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&count_private=true&cache_seconds=7200"
+  src="https://github-stats-extended.vercel.app/api?username=tusharyadav24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&count_private=true"
   alt="Tushar's GitHub Stats"/>
 &nbsp;&nbsp;
-<!-- Streak Stats: FIXED — streak-stats.demolab.com (official host, herokuapp is dead) -->
+<!-- Streak Stats — demolab.com (official host, herokuapp is dead) -->
 <img height="180em"
   src="https://streak-stats.demolab.com?user=tusharyadav24&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=C9D1D9&dates=8B949E&stroke=0D1117"
   alt="GitHub Streak"/>
 
 <br/><br/>
 
-<!-- Top Languages: cache_seconds=7200 added -->
+<!-- Top Languages — also using github-stats-extended -->
 <img height="180em"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharyadav24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=8&cache_seconds=7200"
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=tusharyadav24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=8"
   alt="Top Languages"/>
 
 </div>
@@ -145,7 +148,6 @@ fun_fact    : "I debug code faster than I decide what to eat 🍕"
 
 <div align="center">
 
-<!-- Trophies: column=6 & row=1 & margin-h=15 for stable public-instance rendering -->
 [![Trophies](https://github-profile-trophy.vercel.app/?username=tusharyadav24&theme=discord&no-frame=true&no-bg=true&column=6&row=1&margin-w=10&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
@@ -156,7 +158,6 @@ fun_fact    : "I debug code faster than I decide what to eat 🍕"
 
 <div align="center">
 
-<!-- Activity Graph: %27 = apostrophe fix in custom_title to prevent URL parse error -->
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tusharyadav24&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&area_color=6C63FF&hide_border=true&custom_title=Tushar%27s%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
@@ -172,7 +173,7 @@ fun_fact    : "I debug code faster than I decide what to eat 🍕"
     srcset="https://raw.githubusercontent.com/tusharyadav24/tusharyadav24/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/tusharyadav24/tusharyadav24/output/github-snake.svg"/>
-  <img alt="Contribution Snake Animation"
+  <img alt="Contribution Snake"
     src="https://raw.githubusercontent.com/tusharyadav24/tusharyadav24/output/github-snake-dark.svg"/>
 </picture>
 
@@ -196,8 +197,7 @@ fun_fact    : "I debug code faster than I decide what to eat 🍕"
 
 <p>
 Open to collaborating on exciting projects, contributing to open-source,<br/>
-or just having a conversation about tech, DSA, or AI.<br/>
-<b>Feel free to reach out! 🚀</b>
+or just having a conversation about tech, DSA, or AI. <b>Reach out! 🚀</b>
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/Tushar_Yadav-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tushar-yadav24/)
