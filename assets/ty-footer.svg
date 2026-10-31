@@ -1,1 +1,5 @@
-
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 60" width="900" height="60">
+  <rect width="900" height="60" fill="#0D1117"/>
+  <line x1="0" y1="1" x2="900" y2="1" stroke="#6C63FF" stroke-width="1" opacity="0.4"/>
+  <text x="450" y="36" font-family="'Courier New', Courier, monospace" font-size="13" fill="#8B949E" text-anchor="middle" font-style="italic">thanks for stopping by · let's build something great together</text>
+</svg>
