@@ -1,1 +1,7 @@
-
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 100" width="420" height="100">
+  <rect width="420" height="100" rx="8" fill="#161B22"/>
+  <rect x="0" y="0" width="4" height="100" rx="2" fill="#FFA657"/>
+  <text x="22" y="30" font-family="'Courier New',monospace" font-size="15" font-weight="bold" fill="#E6EDF3">DSA in C++ &amp; Java</text>
+  <text x="22" y="52" font-family="'Courier New',monospace" font-size="12" fill="#8B949E">Arrays · Trees · Graphs · DP · Greedy</text>
+  <text x="22" y="70" font-family="'Courier New',monospace" font-size="12" fill="#8B949E">Daily consistent problem-solving journey</text>
+</svg>
