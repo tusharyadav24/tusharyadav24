@@ -138,7 +138,7 @@ fun_fact: "I debug code faster than I decide what to eat 🍕"
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=tusharyadav24&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![tushar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tusharyadav24)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
