@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- HEADER WAVE — pure wave, no text, never crops -->
+<!-- HEADER WAVE — pure wave, no text, never crops on any device -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header"/>
 
 <!-- ANIMATED TYPING HEADER -->
@@ -118,24 +118,19 @@ fun_fact    : "I debug code faster than I decide what to eat 🍕"
 
 <div align="center">
 
-<!--
-  ✅ FIXED: github-readme-stats.vercel.app is PERMANENTLY DEAD (503 DEPLOYMENT_PAUSED)
-  Using github-stats-extended.vercel.app — confirmed working community replacement
--->
-
-<!-- GitHub Stats Card -->
+<!-- Stats: github-stats-extended (community working replacement for dead github-readme-stats.vercel.app) -->
 <img height="180em"
   src="https://github-stats-extended.vercel.app/api?username=tusharyadav24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&count_private=true"
   alt="Tushar's GitHub Stats"/>
 &nbsp;&nbsp;
-<!-- Streak Stats — demolab.com (official host, herokuapp is dead) -->
+<!-- Streak: demolab.com — confirmed working (herokuapp permanently dead) -->
 <img height="180em"
   src="https://streak-stats.demolab.com?user=tusharyadav24&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=C9D1D9&dates=8B949E&stroke=0D1117"
   alt="GitHub Streak"/>
 
 <br/><br/>
 
-<!-- Top Languages — also using github-stats-extended -->
+<!-- Top Languages: github-stats-extended -->
 <img height="180em"
   src="https://github-stats-extended.vercel.app/api/top-langs/?username=tusharyadav24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=8"
   alt="Top Languages"/>
@@ -144,21 +139,44 @@ fun_fact    : "I debug code faster than I decide what to eat 🍕"
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements & Milestones
+
+<!-- 
+  NOTE: github-profile-trophy.vercel.app frequently rate-limits → replaced with 
+  100% reliable static shields.io badges — these ALWAYS load, zero API dependency
+-->
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=tusharyadav24&theme=discord&no-frame=true&no-bg=true&column=6&row=1&margin-w=10&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+![DSA](https://img.shields.io/badge/🧠_DSA-Problem_Solver-6C63FF?style=for-the-badge)
+![MERN](https://img.shields.io/badge/🌐_MERN-Full_Stack_Dev-00C7B7?style=for-the-badge)
+![AI](https://img.shields.io/badge/🤖_AI-Integration_Builder-FF6B6B?style=for-the-badge)
+![Open Source](https://img.shields.io/badge/⭐_Open-Source_Contributor-F7DF1E?style=for-the-badge&logoColor=black)
+
+<br/>
+
+![LeetCode](https://img.shields.io/badge/LeetCode-Active_Solver-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![GFG](https://img.shields.io/badge/GeeksForGeeks-Problem_Solver-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
+![Production](https://img.shields.io/badge/🏗️_Production-Ready_Apps-0A66C2?style=for-the-badge)
+![Clean Code](https://img.shields.io/badge/✨_Clean-Code_Advocate-339933?style=for-the-badge)
 
 </div>
 
 ---
 
-## 📈 Contribution Activity Graph
+## 📈 Contribution Graph
+
+<!--
+  NOTE: github-readme-activity-graph.vercel.app → rate-limited/down
+  Using ghchart.rshah.org — pure static PNG, reads GitHub's public data directly
+  No Vercel, no rate limits, always loads ✅
+-->
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tusharyadav24&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&area_color=6C63FF&hide_border=true&custom_title=Tushar%27s%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img width="100%"
+  src="https://ghchart.rshah.org/6C63FF/tusharyadav24"
+  alt="Tushar's GitHub Contribution Chart"/>
 
 </div>
 
@@ -213,4 +231,4 @@ or just having a conversation about tech, DSA, or AI. <b>Reach out! 🚀</b>
 </div>
 
 <!-- FOOTER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/> 
