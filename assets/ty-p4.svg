@@ -1,1 +1,13 @@
-
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 120" width="420" height="120">
+  <rect width="420" height="120" rx="8" fill="#161B22"/>
+  <rect x="0" y="0" width="4" height="120" rx="2" fill="#58A6FF"/>
+  <text x="22" y="32" font-family="'Courier New',monospace" font-size="16" font-weight="bold" fill="#E6EDF3">Next.js Production App</text>
+  <text x="22" y="56" font-family="'Courier New',monospace" font-size="12" fill="#8B949E">Scalable web application with Tailwind,</text>
+  <text x="22" y="73" font-family="'Courier New',monospace" font-size="12" fill="#8B949E">TypeScript, API routes &amp; deployment</text>
+  <rect x="22" y="88" width="68" height="20" rx="4" fill="#000000" opacity="0.5"/>
+  <text x="56" y="103" font-family="'Courier New',monospace" font-size="11" fill="#ffffff" text-anchor="middle">Next.js</text>
+  <rect x="98" y="88" width="88" height="20" rx="4" fill="#06B6D4" opacity="0.2"/>
+  <text x="142" y="103" font-family="'Courier New',monospace" font-size="11" fill="#06B6D4" text-anchor="middle">Tailwind CSS</text>
+  <rect x="194" y="88" width="90" height="20" rx="4" fill="#3178C6" opacity="0.2"/>
+  <text x="239" y="103" font-family="'Courier New',monospace" font-size="11" fill="#3178C6" text-anchor="middle">TypeScript</text>
+</svg>
