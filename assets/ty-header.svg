@@ -1,1 +1,18 @@
-
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 130" width="900" height="130">
+  <rect width="900" height="130" fill="#0D1117"/>
+  <!-- dot grid pattern -->
+  <pattern id="dots" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse">
+    <circle cx="1" cy="1" r="1" fill="#6C63FF" opacity="0.12"/>
+  </pattern>
+  <rect width="900" height="130" fill="url(#dots)"/>
+  <!-- left accent bar -->
+  <rect x="0" y="0" width="4" height="130" fill="#6C63FF"/>
+  <!-- name -->
+  <text x="28" y="52" font-family="'Courier New', Courier, monospace" font-size="36" font-weight="bold" fill="#E6EDF3">Tushar Yadav</text>
+  <!-- role -->
+  <text x="30" y="80" font-family="'Courier New', Courier, monospace" font-size="15" fill="#6C63FF">Full-Stack Developer · DSA · AI Integration</text>
+  <!-- right decoration -->
+  <text x="700" y="95" font-family="'Courier New', Courier, monospace" font-size="80" fill="#6C63FF" opacity="0.08" font-weight="bold">{ }</text>
+  <!-- bottom border -->
+  <line x1="0" y1="129" x2="900" y2="129" stroke="#6C63FF" stroke-width="1" opacity="0.5"/>
+</svg>
