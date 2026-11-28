@@ -15,13 +15,13 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑💻 About Me
 
 ```yaml
 name        : Tushar Yadav
 role        : Software Development Engineer (SDE)
 location    : India 🇮🇳
-focus       : ["DSA with C++ & Java", "MERN Stack", "AI Integration", "System Design"]
+focus       : ["DSA with C++", "MERN Stack", "AI Integration", "System Design"]
 passion     : "Turning ideas into production-ready, scalable applications"
 fun_fact    : "I debug code faster than I decide what to eat 🍕"
 ```
@@ -29,7 +29,7 @@ fun_fact    : "I debug code faster than I decide what to eat 🍕"
 <img align="right" alt="Coding GIF" width="330"
   src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-- 🔥 **Mastering DSA** with **C++** & **Java** — consistent daily problem-solving
+- 🔥 **Mastering DSA** with **C++** — consistent daily problem-solving
 - 🌐 **Full-Stack Developer** — MERN Stack (React, Next.js, Node, Express, MongoDB)
 - 🤖 **AI Integration** — embedding LLMs & ML APIs into full-stack web applications
 - 🏗️ **Production Engineering** — scalable, clean, maintainable codebases
@@ -59,7 +59,7 @@ fun_fact    : "I debug code faster than I decide what to eat 🍕"
 
 | 🧠 Area | 📝 What I'm Building |
 |--------|----------------------|
-| **DSA (C++ & Java)** | Daily problem-solving on LeetCode · GFG · Codeforces |
+| **DSA (C++)** | Daily problem-solving on LeetCode · GFG · Codeforces |
 | **MERN Full-Stack** | React.js · Next.js · Node.js · Express.js · MongoDB · Tailwind CSS |
 | **AI-Powered Apps** | OpenAI · LangChain · HuggingFace APIs in full-stack apps |
 | **Production Readiness** | Scalable architecture · CI/CD · Docker · Vercel |
